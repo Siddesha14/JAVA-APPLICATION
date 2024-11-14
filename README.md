@@ -20,4 +20,4 @@ The **Calorie Tracker App** is a desktop application developed in Java using Swi
 ## Installation
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/calorie-tracker-app.git
+   git clone https://github.com/SIDDESHA M/calorie-tracker-app.git
